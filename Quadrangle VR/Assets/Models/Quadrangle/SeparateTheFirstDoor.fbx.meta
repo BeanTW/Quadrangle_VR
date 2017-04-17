@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 724e2a8a42558274f96b68a1eb227a44
+timeCreated: 1472203927
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Separate:polySurface1
+    100002: Separate:polySurface2
+    100004: Separate:polySurface3
+    100006: Separate:polySurface4
+    100008: Separate:polySurface5
+    100010: Separate:polySurface6
+    100012: Separate:TheFirstDoor_Door1_1
+    100014: Separate:TheFirstDoor_Door1_2
+    100016: Separate:TheFirstDoor_Roof
+    100018: Separate:TheFirstDoor_Roof_Wall1
+    100020: Separate:TheFirstDoor_Roof_Wall2
+    100022: Separate:TheFirstDoor_Rooftop
+    100024: Separate:TheFirstDoor_Wall1
+    100026: Separate:TheFirstDoor_Wall2
+    100028: Separate:TheFirstDoor_Wall3
+    100030: //RootNode
+    400000: Separate:polySurface1
+    400002: Separate:polySurface2
+    400004: Separate:polySurface3
+    400006: Separate:polySurface4
+    400008: Separate:polySurface5
+    400010: Separate:polySurface6
+    400012: Separate:TheFirstDoor_Door1_1
+    400014: Separate:TheFirstDoor_Door1_2
+    400016: Separate:TheFirstDoor_Roof
+    400018: Separate:TheFirstDoor_Roof_Wall1
+    400020: Separate:TheFirstDoor_Roof_Wall2
+    400022: Separate:TheFirstDoor_Rooftop
+    400024: Separate:TheFirstDoor_Wall1
+    400026: Separate:TheFirstDoor_Wall2
+    400028: Separate:TheFirstDoor_Wall3
+    400030: //RootNode
+    2300000: Separate:polySurface1
+    2300002: Separate:polySurface2
+    2300004: Separate:polySurface3
+    2300006: Separate:polySurface4
+    2300008: Separate:polySurface5
+    2300010: Separate:polySurface6
+    2300012: Separate:TheFirstDoor_Roof
+    2300014: Separate:TheFirstDoor_Roof_Wall1
+    2300016: Separate:TheFirstDoor_Roof_Wall2
+    2300018: Separate:TheFirstDoor_Wall1
+    2300020: Separate:TheFirstDoor_Wall2
+    2300022: Separate:TheFirstDoor_Wall3
+    3300000: Separate:polySurface1
+    3300002: Separate:polySurface2
+    3300004: Separate:polySurface3
+    3300006: Separate:polySurface4
+    3300008: Separate:polySurface5
+    3300010: Separate:polySurface6
+    3300012: Separate:TheFirstDoor_Roof
+    3300014: Separate:TheFirstDoor_Roof_Wall1
+    3300016: Separate:TheFirstDoor_Roof_Wall2
+    3300018: Separate:TheFirstDoor_Wall1
+    3300020: Separate:TheFirstDoor_Wall2
+    3300022: Separate:TheFirstDoor_Wall3
+    4300000: Separate:TheFirstDoor_Wall1
+    4300002: Separate:TheFirstDoor_Wall2
+    4300004: Separate:TheFirstDoor_Wall3
+    4300006: Separate:polySurface4
+    4300008: Separate:polySurface5
+    4300010: Separate:polySurface6
+    4300012: Separate:polySurface1
+    4300014: Separate:polySurface2
+    4300016: Separate:polySurface3
+    4300018: Separate:TheFirstDoor_Roof
+    4300020: Separate:TheFirstDoor_Roof_Wall1
+    4300022: Separate:TheFirstDoor_Roof_Wall2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

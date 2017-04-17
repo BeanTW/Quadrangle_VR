@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: c2eeaf92bfe0cc749bb3403dcbe8de9f
+timeCreated: 1472203932
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Separate:pasted__pCube55
+    100002: Separate:pasted__pTorus11
+    100004: Separate:pasted__pTorus5
+    100006: Separate:West_Toilet_Door
+    100008: Separate:West_Toilet_Floor
+    100010: Separate:West_Toilet_Roof
+    100012: Separate:West_Toilet_Roof_Wall1
+    100014: Separate:West_Toilet_Roof_Wall2
+    100016: Separate:West_Toilet_Rooftop
+    100018: Separate:West_Toilet_Wall
+    100020: //RootNode
+    400000: Separate:pasted__pCube55
+    400002: Separate:pasted__pTorus11
+    400004: Separate:pasted__pTorus5
+    400006: Separate:West_Toilet_Door
+    400008: Separate:West_Toilet_Floor
+    400010: Separate:West_Toilet_Roof
+    400012: Separate:West_Toilet_Roof_Wall1
+    400014: Separate:West_Toilet_Roof_Wall2
+    400016: Separate:West_Toilet_Rooftop
+    400018: Separate:West_Toilet_Wall
+    400020: //RootNode
+    2300000: Separate:pasted__pCube55
+    2300002: Separate:pasted__pTorus11
+    2300004: Separate:pasted__pTorus5
+    2300006: Separate:West_Toilet_Floor
+    2300008: Separate:West_Toilet_Roof
+    2300010: Separate:West_Toilet_Roof_Wall1
+    2300012: Separate:West_Toilet_Roof_Wall2
+    2300014: Separate:West_Toilet_Wall
+    3300000: Separate:pasted__pCube55
+    3300002: Separate:pasted__pTorus11
+    3300004: Separate:pasted__pTorus5
+    3300006: Separate:West_Toilet_Floor
+    3300008: Separate:West_Toilet_Roof
+    3300010: Separate:West_Toilet_Roof_Wall1
+    3300012: Separate:West_Toilet_Roof_Wall2
+    3300014: Separate:West_Toilet_Wall
+    4300000: Separate:West_Toilet_Wall
+    4300002: Separate:West_Toilet_Floor
+    4300004: Separate:West_Toilet_Roof
+    4300006: Separate:West_Toilet_Roof_Wall1
+    4300008: Separate:West_Toilet_Roof_Wall2
+    4300010: Separate:pasted__pCube55
+    4300012: Separate:pasted__pTorus5
+    4300014: Separate:pasted__pTorus11
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
